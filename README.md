@@ -20,6 +20,7 @@ An Android chat application built with Kotlin & Jectpack Compose, allowing users
 - Landscape mode support
 - Structured with MVVM architecture
 - Easily Scalable and maintainable
+- Dark & Light mode adjustable with device default mode
 
 ## License
 
