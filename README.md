@@ -1,7 +1,7 @@
 
 # Chat Rooms
 
-An Android chat application built with Kotlin & Jectpack Compose, allowing users to create and join chat rooms for real-time, multi-user communication. Implemented with Firebase as the backend database, with user authentication handled via Firebase Authentication, and structured with MVVM architecture for efficient data handling and maintainability.
+A Native Android chat application built with Kotlin & Jectpack Compose, allowing users to create and join chat rooms for real-time, multi-user communication. Implemented with Firebase as the backend database, with user authentication handled via Firebase Authentication, and structured with MVVM architecture for efficient data handling and maintainability.
 
 <a href="https://drive.google.com/file/d/1s0QBUrNbDhmyMzZ6bGr10AMi63LmGX3O/view?usp=drive_link"><img src="https://boostapk.com/wp-content/uploads/2020/08/fall-guys-android.png" width=200></a>
 ## Screenshots
@@ -22,28 +22,48 @@ An Android chat application built with Kotlin & Jectpack Compose, allowing users
 - Easily Scalable and maintainable
 - Dark & Light mode adjustable with device default mode
 
-## License
+## 🛠️ Technologies Used
 
-```
-MIT License
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=flat)
+![Firebase Authentication](https://img.shields.io/badge/Firebase%20Authentication-FFCA28?logo=firebase&logoColor=white&style=flat)
 
-Copyright (c) 2024 Ekramul Haque
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=android&logoColor=white&style=flat)
+![MVVM](https://img.shields.io/badge/MVVM-023047?logo=architectural-decision&logoColor=white&style=flat)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## 🤝 Contributions
+Feel free to fork this repository, make changes, and submit a pull request. Contributions are always welcome!
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+---
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
+## 📫 Contact 
+**Ekramul Haque**  
+- 📧 Email: [ehr.ekramul@gmail.com](mailto:ehr.ekramul@gmail.com)
+
+---
+
+## 🌐 Connect with me
+
+<p align="left">
+<a href="https://linkedin.com/in/ehrekramul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ehrekramul" height="30" width="40" /></a>
+<a href="https://twitter.com/ehrekramul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ehrekramul" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17507562/ekramul-haque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ekramul-haque" height="30" width="40" /></a>
+</p>
+
+---
+
+## ⭐ Star This Repo!
+If you found this repository/app useful, please give it a ⭐ to show your support! 😊
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License**. Feel free to use and modify the code.
+
+---
+
+<div align="center">
+
+# **🎉 Happy Coding! 🎉**
+
+</div>
