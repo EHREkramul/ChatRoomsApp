@@ -52,8 +52,12 @@ Feel free to fork this repository, make changes, and submit a pull request. Cont
 
 ---
 
-## ⭐ Star This Repo!
-If you found this repository/app useful, please give it a ⭐ to show your support! 😊
+## ⭐ Support This Project  
+
+If you find this repository helpful, consider supporting it by:  
+- 🌟 Starring the repository  
+- 🍴 Forking it to explore and improve  
+- 📣 Sharing it with others
 
 ---
 
